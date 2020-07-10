@@ -1,4 +1,4 @@
 # DCASurveyor
 DCA Survey Tool
 
-Nothing to see here right now
+Nothing major to see right now. See the latest release on the sidebar to use.
