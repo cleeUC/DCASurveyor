@@ -1,0 +1,13 @@
+
+## Release Notes for v1.7
+Updated 8/20/2020
+
+- Significant feature update: Made significant changes to export of data.
+- All environmental personnel are now included in app, along with email addresses and signatures.
+- Chain-of-custody is now automatically signed and dated prior to export or print.
+- Added an export tab, along with export options for asbestos raw data, lead assay raw data, radon sample raw data, and PDF chain-of-custody.
+- Made the site and personnel global variables. One site and one person is now used with all records. This cannot be changed in the field to prevent confusion.
+- Fixed the bug where project name, number, and personnel did not show up when exporting chain of custody
+- Updated "clear global variables" script to clear site and personnel.
+- Added dialogs in various places so user can remain informed when buttons make changes.
+- Added a splash screen and quick link to help docs.

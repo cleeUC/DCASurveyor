@@ -1,4 +1,4 @@
 # DCASurveyor
 DCA Survey Tool
 
-Nothing major to see right now. See the latest release on the sidebar to use.
+Tool updated to Version 1.7 with the addition of several significant features. See the latest release on the sidebar to use, and read the release notes for more information.
